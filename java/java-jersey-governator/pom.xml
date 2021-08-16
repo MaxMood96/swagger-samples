@@ -162,7 +162,7 @@
     <properties>
         <jetty-eclipse-version>9.2.12.v20150709</jetty-eclipse-version>
         <jersey-version>1.19</jersey-version>
-        <guice-servlet-version>4.0</guice-servlet-version>
+        <guice-servlet-version>5.0.1</guice-servlet-version>
         <jersey-guice-version>1.19</jersey-guice-version>
         <governator-servlet.version>1.12.7</governator-servlet.version>
         <karyon2-admin-web.version>2.7.5</karyon2-admin-web.version>
