@@ -213,7 +213,7 @@
     </dependency>
   </dependencies>
   <properties>
-    <jetty-version>9.2.2.v20140723</jetty-version>
+    <jetty-version>9.2.25.v20180606</jetty-version>
     <jetty-port>8002</jetty-port>
     <json-simple-version>1.1.1</json-simple-version>
     <apache-wink-version>1.4</apache-wink-version>
