@@ -155,7 +155,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
-            <version>2.3.5.Final</version>
+            <version>3.11.0.Final</version>
             <!-- filter out unwanted jars -->
             <exclusions>
                 <exclusion>
@@ -218,7 +218,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-jaxrs</artifactId>
-            <version>2.3.5.Final</version>
+            <version>3.11.0.Final</version>
         </dependency>
     </dependencies>
 </project>
