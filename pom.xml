@@ -214,7 +214,7 @@
             </goals>
             <configuration>
               <rules>
-                <DependencyConvergence />
+                <DependencyConvergence/>
               </rules>
             </configuration>
           </execution>
@@ -330,7 +330,7 @@
             <link>http://java.sun.com/javaee/5/docs/api</link>
             <link>http://java.sun.com/j2se/1.5.0/docs/api</link>
           </links>
-          <excludePackageNames />
+          <excludePackageNames/>
         </configuration>
       </plugin>
       <plugin>
@@ -443,7 +443,7 @@
     <jersey2-version>2.1</jersey2-version>
     <jackson-version>2.10.3</jackson-version>
     <jackson-guava-version>2.4.2</jackson-guava-version>
-    <logback-version>1.0.1</logback-version>
+    <logback-version>1.2.0</logback-version>
 
     <junit-version>4.8.1</junit-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
