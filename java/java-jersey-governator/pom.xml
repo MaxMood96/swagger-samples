@@ -165,6 +165,6 @@
         <guice-servlet-version>4.0</guice-servlet-version>
         <jersey-guice-version>1.19</jersey-guice-version>
         <governator-servlet.version>1.12.7</governator-servlet.version>
-        <karyon2-admin-web.version>2.7.5</karyon2-admin-web.version>
+        <karyon2-admin-web.version>2.8.0</karyon2-admin-web.version>
     </properties>
 </project>
