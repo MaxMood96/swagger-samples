@@ -214,7 +214,7 @@
             </goals>
             <configuration>
               <rules>
-                <DependencyConvergence />
+                <DependencyConvergence/>
               </rules>
             </configuration>
           </execution>
@@ -330,7 +330,7 @@
             <link>http://java.sun.com/javaee/5/docs/api</link>
             <link>http://java.sun.com/j2se/1.5.0/docs/api</link>
           </links>
-          <excludePackageNames />
+          <excludePackageNames/>
         </configuration>
       </plugin>
       <plugin>
@@ -434,7 +434,7 @@
   <properties>
     <joda-version>1.2</joda-version>
     <joda-time-version>2.2</joda-time-version>
-    <swagger-version>1.6.6</swagger-version>
+    <swagger-version>1.6.8</swagger-version>
     <swagger-ui-version>2.1.4</swagger-ui-version>
     <scala-version>2.10.4</scala-version>
     <felix-version>2.3.4</felix-version>
