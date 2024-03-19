@@ -142,7 +142,7 @@
         <spring-boot-version>1.4.0.RELEASE</spring-boot-version>
         <springfox-version>2.5.0</springfox-version>
         <swagger-core-version>1.5.22-SNAPSHOT</swagger-core-version>
-        <spring-version>4.3.2.RELEASE</spring-version>
+        <spring-version>5.3.33</spring-version>
         <hibernate-validator-version>5.3.6.Final</hibernate-validator-version>
     </properties>
 </project>
