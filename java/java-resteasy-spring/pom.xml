@@ -209,7 +209,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>3.2.4.RELEASE</version>
+            <version>5.3.34</version>
         </dependency>
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
